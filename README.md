@@ -5,7 +5,6 @@ A pair of Python tools for collecting and analysing ball landing data from table
 - **`annotator.py`** — watch a video and click where each ball lands. Saves landing positions to a CSV file.
 - **`analyse.py`** — reads the CSV and produces scatter plots, heatmaps, and accuracy statistics.
 
----
 
 ## Requirements
 
@@ -15,8 +14,6 @@ A pair of Python tools for collecting and analysing ball landing data from table
 ```
 pip install opencv-python numpy matplotlib scipy
 ```
-
----
 
 ## Usage
 
@@ -43,7 +40,6 @@ When the screen shows **"Calibration Complete — Press SPACE"**, press Space to
 
 > ⚠️ Click the corners as precisely as possible — this affects the accuracy of all measurements.
 
----
 
 Step-3: Annotation
 
@@ -87,7 +83,6 @@ Data is saved on every click — no manual saving required.
 | `LandingX_cm` | Landing x position in cm |
 | `LandingY_cm` | Landing y position in cm |
 
----
 
 ### 2. Analyser
 
@@ -113,7 +108,6 @@ The script runs automatically and saves three output files in the **same folder 
 - CEP50 (radius containing 50% of shots)
 - Percentage of shots within the target radius
 
----
 
 ## Table Dimensions
 
@@ -127,7 +121,6 @@ The tools assume standard table tennis half-table dimensions:
 
 To change these, edit the constants at the top of each script.
 
----
 
 ## Troubleshooting
 

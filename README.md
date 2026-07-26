@@ -100,7 +100,7 @@ The script runs automatically and saves three output files in the **same folder 
 
 | ![Caption 1](images/DJI_0033_95d_60%202_annotations_scatter.png) | ![Caption 2](images/DJI_0033_95d_60%202_annotations_heatmap.png) | ![Caption 3](images/analysis.png) |
 |---|---|---|
-| Scatter Plot | Heatmap | Third Image |
+| Scatter Plot | Heatmap | Accuracy & Precision Metrics |
 
 #### Statistics Reported
 

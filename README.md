@@ -33,7 +33,9 @@ The first frame of the video will appear. You must click the **4 corners of the 
 3. Bottom Right
 4. Bottom Left
 ```
-![Calibration](images/annotator_calibration.png)
+<img src="images/annotator_calibration.png" width="50%"/>
+Above image shows the first 3 points selected according and waiting for the fourth corner (bottom left) to be selected.
+
 Then click the **target point** — the spot on the table the ball machine was aimed at.
 
 When the screen shows **"Calibration Complete — Press SPACE"**, press Space to begin annotation.

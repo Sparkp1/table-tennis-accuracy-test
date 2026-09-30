@@ -2,8 +2,8 @@
 
 A pair of Python tools for collecting and analysing ball landing data from table tennis ball machine videos.
 
-- **`annotator.py`** — watch a video and click where each ball lands. Saves landing positions to a CSV file.
-- **`analyse.py`** — reads the CSV and produces scatter plots, heatmaps, and accuracy statistics.
+- **`annotator.py`**:  watch a video and click where each ball lands. Saves landing positions to a CSV file.
+- **`analyse.py`**: reads the CSV and produces scatter plots, heatmaps, and accuracy statistics.
 
 
 ## Requirements
